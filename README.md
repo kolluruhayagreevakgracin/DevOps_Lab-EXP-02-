@@ -1,1 +1,3 @@
-# DevOps_Lab-EXP-02-
+2. Explore Git and GitHub commands.
+
+Aim : Explore Git and GitHub commands.
